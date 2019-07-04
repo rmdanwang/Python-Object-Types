@@ -10,7 +10,7 @@ print(type({5,2,3,1,4}))
 print(type({1:'value','key':2}))
 
 Output: 
- <class 'list'>
+<class 'list'>
 <class 'int'>
 <class 'str'>
 <class 'float'>
