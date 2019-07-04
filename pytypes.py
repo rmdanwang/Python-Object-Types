@@ -1,4 +1,4 @@
-#Homework by Ru Meng(Dan) Wang pytypes.py
+
 print(type([47,48,49]))
 print(type(47))
 print(type("47"))
